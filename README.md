@@ -15,7 +15,7 @@ This script is not a substitute for an actual application, and Angel List tends 
 
 To set up this script:
 
-- Replace customNote with your own note.
+- Replace `customNote` with your own note.
 - Comment out lines 69-70, and 74-76.
 - Uncomment line 65 to log your custom notes and check syntax and formatting.
 
